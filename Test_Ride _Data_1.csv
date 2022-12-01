@@ -1,0 +1,10 @@
+﻿Origin,Destination,Rides
+West End,Cambridge,1000
+Beacon Hill,West End,10
+Cambridge,West End,100
+West End,Beacon Hill,300
+Beacon Hill,Cambridge,600
+Cambridge,Beacon Hill,400
+West End,West End,400
+Beacon Hill,Beacon Hill,500
+Cambridge,Cambridge,600
