@@ -1,0 +1,32 @@
+[
+  {
+    "Origin": "West End",
+    "Destination": "Cambridge",
+    "Rides": 1000
+  },
+  {
+    "Origin": "Beacon Hill",
+    "Destination": "West End",
+    "Rides": 10
+  },
+  {
+    "Origin": "Cambridge",
+    "Destination": "West End",
+    "Rides": 100
+  },
+  {
+    "Origin": "West End",
+    "Destination": "Beacon Hill",
+    "Rides": 300
+  },
+  {
+    "Origin": "Beacon Hill",
+    "Destination": "Cambridge",
+    "Rides": 600
+  },
+  {
+    "Origin": "Cambridge",
+    "Destination": "Beacon Hill",
+    "Rides": 400
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Location": "Cambridge",
+    "X": 50,
+    "Y": 50
+  },
+  {
+    "Location": "West End",
+    "X": 200,
+    "Y": 300
+  },
+  {
+    "Location": "Beacon Hill",
+    "X": 300,
+    "Y": 100
+  }
+]
