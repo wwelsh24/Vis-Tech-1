@@ -28,5 +28,20 @@
     "Origin": "Cambridge",
     "Destination": "Beacon Hill",
     "Rides": 400
+  },
+  {
+    "Origin": "West End",
+    "Destination": "West End",
+    "Rides": 400
+  },
+  {
+    "Origin": "Beacon Hill",
+    "Destination": "Beacon Hill",
+    "Rides": 500
+  },
+  {
+    "Origin": "Cambridge",
+    "Destination": "Cambridge",
+    "Rides": 600
   }
 ]
